@@ -1,0 +1,54 @@
+1_Basic:
+    Find the gcd of two number
+    Calculate the factorial of a number
+    Find the Binominal Coefficient C(n,k);
+    Program to find nth Catalan numbers
+    Euclid's Lemma
+    Basic and Extended Euclid algorithm
+
+
+2_Modular Arithmetic:
+    Euler's Totient Fucntion
+    Euler's Totient function for all numbers smaller than or equal to n
+    Modular Exponentiation (power in modualr arithmetic)
+    Find the remainder without usig the modulo operator
+    Modular multiplicative inverse
+    Multiplicative order
+    Compute nCr % p using Dynamic Programming solution
+    Compute nCr % p using Lucas Theorem
+    Compute nCr % p using Fermant Little Theorem
+    Chinese Remainder Theorem
+    Chinese Remainder Theorem using Inverse Modulo-based Implementation
+    Find Square Root under Modulo p | Set 1 (When p is in form of 4*i + 3)
+    Find Square Root under Modulo p | Set 2 (Shanks Tonelli algorithm)
+    Modular Division
+    Cyclic Redundancy Check and Modulo-2 Division
+    Find primitive root of a prime number n modulo n
+    Euler’s criterion (Check if square root under modulo p exists)
+    Combine Modular equations using the Chinese Remainder Theorem
+    Multiply large integers under large modulo
+    Compute n! under modulo p
+    Wilson’s Theorem
+
+
+3_Number Theory
+    Primality Test to check if a number is prime or not
+    Primality Test to check if a number is prime or not using Fermat Method
+    Primality Test to check if a number is prime or not using Miller–Rabin
+    Primality Test to check if a number is prime or not using Solovay-Strassen
+    Legendre’s formula (Given p and n, find the largest x such that p^x divides n!)
+    Find if a number is Carmichael Numbers
+    Find all generators of cyclic additive group under modulo n
+    Sum of divisors of factorial of a number
+    Fermat Number
+    Sieve of Eratosthenes
+    Goldbach’s Conjecture
+    Pollard’s Rho Algorithm for Prime Factorization
+
+
+4_Game Theory
+    Minimax algorithm
+    Nim Game problem
+    Sprague – Grundy Theorem
+
+https://www.geeksforgeeks.org/number-theory-competitive-programming/
